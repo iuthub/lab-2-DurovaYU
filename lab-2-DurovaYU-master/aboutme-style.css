@@ -1,0 +1,26 @@
+body{
+	background-color: lightpink;
+	text-align: center;
+}
+h1{
+	color:red;
+	text-align: center;
+	font-family: times new roman;
+}
+ul{
+	color: green;
+}
+li{
+	font-family: arial
+}
+p{
+	font-family: georgia;
+	font-size: :20px;
+}
+
+div{
+width: 200px;
+	margin: 0px auto;
+}
+a:link {text-decoration:none;}
+a:hover {text-decoration:underline;}
